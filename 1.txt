@@ -1,0 +1,11 @@
+Git is a distributed version control system (VCS) used by developers to track changes in code, collaborate with others, and manage projects efficiently.
+
+Here’s a breakdown:
+
+🔑 Key Features of Git
+
+Version Control: Keeps a history of every change made to files, so you can go back to earlier versions at any time.
+
+Branching & Merging: Lets you create separate branches to work on new features or fixes, and later merge them into the main codebase.
+
+Distributed System: Every developer has a full copy of the repository on their machine (not just files, but the entire history).
